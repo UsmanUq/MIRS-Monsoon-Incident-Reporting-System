@@ -1,0 +1,38 @@
+[
+    {
+        "type": "flood",
+        "severity": "Low",
+        "location": "kimari",
+        "description": "pani agya bhai",
+        "id": "c22024c3-99a8-4bf2-a5c2-f9ab09d38837",
+        "timestamp": "2025-07-18T01:48:09.846044",
+        "report_id": 1
+    },
+    {
+        "type": "murder",
+        "severity": "High",
+        "location": "korangi",
+        "description": "its korangi what did u expect",
+        "id": "5a40cfc0-63af-4847-a37a-8cec18be2340",
+        "timestamp": "2025-07-18T02:02:18.668330",
+        "report_id": 2
+    },
+    {
+        "type": "fire ",
+        "severity": "Medium",
+        "location": "kimari",
+        "description": "yep korangi at it again",
+        "id": "fbab1254-1d96-46ca-855a-6a1ba254df7b",
+        "timestamp": "2025-07-18T02:24:28.969707",
+        "report_id": 3
+    },
+    {
+        "type": "shooting",
+        "severity": "Medium",
+        "location": "shady oaks",
+        "description": "shooting reoprted to be coming form the apartment complex",
+        "id": "d02f7725-e29b-4a46-9983-97056239dbe7",
+        "timestamp": "2025-07-18T02:25:18.743039",
+        "report_id": 4
+    }
+]

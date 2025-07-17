@@ -1,0 +1,7 @@
+import requests
+try:
+    response = requests.post("http://localhost:5000/report", 
+                           json={"name": "test", "details": "something"})
+    print(response.json())
+except Exception as e:
+    print(f"Error: {e}")
