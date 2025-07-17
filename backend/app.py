@@ -86,10 +86,11 @@ def get_reports_html():
             <div class="last-updated" id="lastUpdated"></div>
         </div>
         <pre>{{ reports|tojson(indent=4) }}</pre>
+	<p>Update Latency <10 Seconds...</p>
         <script>
             document.getElementById('lastUpdated').textContent = 'Last updated: ' + new Date().toLocaleTimeString();
             document.title = 'Reports @ ' + new Date().toLocaleTimeString();
-        </script>
+        </script>	
     </body>
     </html>
     """, reports=reports)
