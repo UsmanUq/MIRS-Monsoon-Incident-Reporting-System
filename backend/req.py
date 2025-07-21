@@ -5,3 +5,4 @@ try:
     print(response.json())
 except Exception as e:
     print(f"Error: {e}")
+#this is a fast api test response query, keep for future testing for feature/exapnasion/migration
